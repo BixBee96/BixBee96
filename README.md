@@ -6,7 +6,7 @@ I am a Web developer who is interested in making responsive and awesome websites
 I have taught my younger cousins and friend how to code and advices on a career path.
 
 Skills: REACT / JS / HTML / CSS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BixBee96)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on this page. 
 
